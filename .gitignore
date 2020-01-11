@@ -49,6 +49,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+#Brushify
+Content/Brushify
+
 # Builds
 Build/*
 
